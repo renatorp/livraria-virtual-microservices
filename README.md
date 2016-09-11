@@ -16,7 +16,21 @@ livros, calcular preços e montar o pacote de despacho para o cliente. Use
 APIs REST para prover comunicação entre os micro-serviços conforme
 apropriado.
 
-## Geradores:
+## Microserviços
+
+### Autenticação
+https://github.com/renatorp/autenticacaoService
+
+### Consulta de Livros
+https://github.com/renatorp/consultaLivrosService
+
+### Gerenciamento de Carrinho de Compras
+https://github.com/renatorp/gerenciamentoCarrinhoService
+
+### Pagamento e Despacho de Livros
+https://github.com/renatorp/pagamentoDespachoLivrosService
+
+## Geradores
 - Passport (Autenticação no Node.JS)
 https://github.com/ni4ka7a/generator-express-passport-auth
 - Spring Boot - https://start.spring.io
